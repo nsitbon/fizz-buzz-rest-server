@@ -1,0 +1,6 @@
+package: github.com/ns-consulting/fizz-buzz-rest-server
+import:
+- package: github.com/gin-gonic/gin
+  version: ^1.2.0
+  subpackages:
+  - binding
